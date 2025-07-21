@@ -4,9 +4,9 @@ repo: status # เปลี่ยนเป็นชื่อ repository ที�
 
 sites:
   - name: หน้าเว็บหลัก
-    url: https://example.com
+    url: https://t6official.shop
   - name: API เกตเวย์
-    url: https://api.example.com
+    url: https://t6official.shop
 
 status-website:
   # ถ้ามี custom domain ใส่ cname โดยเปลี่ยนเป็นโดเมนของคุณเอง หรือสามารถลบออกได้
